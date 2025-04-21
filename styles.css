@@ -1,6 +1,6 @@
 /*stile generale del corpo della pagina*/
 body {
-    font-family: 'Poppins', sans-serif; /*Font pricipale della pagina*/
+    font-family: 'Poppins', san-serif; /*Font pricipale della pagina*/
     scroll-behavior: smooth; /*abilita lo scorrimento fluido*/
     background-color: #f8f9fa; /*Colore di sfondo della pagina grigio chiaro*/
     
